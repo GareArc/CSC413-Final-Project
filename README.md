@@ -1,5 +1,8 @@
 # CSC413-Final-Project
 
+### Our Work
+[Text Classification with BERT Variants](paper.pdf)
+
 ### Authors
 - Rui Miao
 - Shiyuan Zhou
