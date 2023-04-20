@@ -9,5 +9,5 @@
 - Xiyuan Chen
 
 ### Full Experiment Reports
-- [ReBERTa](https://wandb.ai/zhoueric0603/huggingface)
+- [ReBERTa](https://wandb.ai/zhoueric0603/CSC413FinalProject)
 - [DistilBERT](https://wandb.ai/garethcxy/CSC413FinalProject)
